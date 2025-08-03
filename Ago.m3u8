@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",Telefe HD
+http://181.10.123.154:14000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",Telefe HD
+http://190.95.60.228:8500/play/a042
+#EXTINF:-1 group-title="-",TVN
+http://207.248.3.81:8081/play/a0ey
+#EXTINF:-1 group-title="-",CHV
+http://207.248.3.81:8081/play/a0ez
+#EXTINF:-1 group-title="-",Canal 13
+http://190.211.163.19:9999/play/13mundo
+#EXTINF:-1 group-title="-",Mega HD
+http://190.211.163.19:9999/play/a0fn
+#EXTINF:-1 group-title="-",CNN Chile
+http://190.211.163.19:9999/play/cnnchile
+#EXTINF:-1 group-title="-",CNN en Español
+http://181.10.123.154:14000/play/a054/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sport Premium
+http://190.211.163.19:9999/play/a09j
+#EXTINF:-1 group-title="-",TNT Sport
+http://190.211.163.19:9999/play/a0bi
+#EXTINF:-1 group-title="-",La Red
+http://190.211.163.19:9999/play/a09e
+#EXTINF:-1 group-title="-",Cronica
+http://181.10.123.154:14000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="-",TN HD
+http://181.10.123.154:14000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+http://181.10.123.154:14000/play/a055/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://200.107.142.38:9000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",Discovery HD
+http://190.217.23.56:1010/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="-",The History Channel HD
+http://181.10.123.154:14000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD
+http://200.121.48.5:8000/play/a0kx/index.m3u8
+#EXTINF:-1 group-title="-",26TV
+http://181.10.123.154:14000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",A24
+http://181.10.123.154:14000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="-",C5N
+http://181.10.123.154:14000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="-",TyC Sports HD
+http://181.10.123.154:14000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",A&E HD
+http://45.181.122.46:8090/play/a00d
+#EXTINF:-1 group-title="-",AMC HD
+http://45.181.122.46:8090/play/a027
+#EXTINF:-1 group-title="-" tvg-id="AXN HD",AXN HD
+http://45.4.169.50:8000/play/a09m
+#EXTINF:-1 group-title="-" tvg-id="Antena 3",Antena 3
+http://190.14.234.2:8500/play/a151/index.m3u8
+#EXTINF:-1 group-title="-",Atres Series
+http://45.4.169.50:8000/play/a08o
+#EXTINF:-1 group-title="-",HBO
+http://190.217.23.56:1010/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="-",HBO2
+http://190.217.23.56:1010/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="-",HBO+
+http://190.217.23.56:1010/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+http://200.107.142.38:9000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme
+http://200.107.142.38:9000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",Universal Cinema
+http://200.107.142.38:9000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",Universal Premiere
+http://200.107.142.38:9000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",Universal Comedy
+http://200.107.142.38:9000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",Universal Crime
+http://200.107.142.38:9000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",Sony Channel
+http://45.181.122.46:8090/play/a00e
+#EXTINF:-1 group-title="-",Sony Movies
+http://200.121.48.5:8000/play/a0me/index.m3u8
+#EXTINF:-1 group-title="-",TCM
+http://190.211.163.19:9999/play/a04v
+#EXTINF:-1 group-title="-",Discovery Theater
+http://181.189.241.114:5050/play/a03o
+#EXTINF:-1 group-title="-",Dreamworks Latam
+http://45.4.169.50:8000/play/a02p
+#EXTINF:-1 group-title="-",History 2
+http://181.189.241.114:5050/play/a0fh
+#EXTINF:-1 group-title="-",Canal 24 Horas HD
+http://200.121.48.5:8000/play/a0m1/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://45.181.122.46:8090/play/a025
+#EXTINF:-1 group-title="-",El Gourmet HD
+http://45.4.169.50:8000/play/a05b
+#EXTINF:-1 group-title="-",NTV
+http://45.4.169.50:8000/play/a07v
+#EXTINF:-1 group-title="-",TV+ HD
+http://45.4.169.50:8000/play/a07k
+#EXTINF:-1 group-title="-",Warner Channel HD
+http://45.4.169.50:8000/play/a09l
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://190.95.60.228:8500/play/a012
+#EXTINF:-1 group-title="-",ESPN
+http://190.95.60.228:8500/play/a00g
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://190.95.60.228:8500/play/a09v
+#EXTINF:-1 group-title="-",ESPN HD
+http://45.181.122.46:8090/play/a01m
+#EXTINF:-1 group-title="-",Telefe 2
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
