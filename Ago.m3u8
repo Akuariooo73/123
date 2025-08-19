@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",Telefe 2
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
+#EXTINF:-1 group-title="-",DSports C
+http://200.121.48.5:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="-",Telefe HD
 http://181.10.123.154:14000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",Telefe HD
@@ -103,14 +107,10 @@ http://190.95.60.228:8500/play/a00g
 http://190.95.60.228:8500/play/a09v
 #EXTINF:-1 group-title="-",ESPN HD
 http://45.181.122.46:8090/play/a01m
-#EXTINF:-1 group-title="-",Telefe 2
-https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
 #EXTINF:-1 group-title="-",DSports
 http://38.252.213.215:8000/play/a01w
 #EXTINF:-1 group-title="-",DSports B
 http://190.119.168.226:4000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="-",DSports C
-http://200.121.48.5:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="-",Telefe Cordoba
 http://190.123.90.146:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="-",Love Nature
