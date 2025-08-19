@@ -111,3 +111,5 @@ http://38.252.213.215:8000/play/a01w
 http://190.119.168.226:4000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="-",DSports C
 http://200.121.48.5:8000/play/ac5p/index.m3u8
+#EXTINF:-1 group-title="-",Telefe Cordoba
+http://190.123.90.146:8000/play/a03c/index.m3u8
