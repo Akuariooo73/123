@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",TELEFE HD Telecom
+http://181.10.181.101:15001/play/a08a/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports Premiun HD Grupo ZGH
+http://38.7.204.229:8010/play/a2oj/index.m3u8
+#EXTINF:-1 group-title="-",DSports
+http://190.108.89.228:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="-",DSports B
+http://190.102.149.68:1234/play/a1ax/index.m3u8
+#EXTINF:-1 group-title="-",DSports C
+http://200.121.48.5:8000/play/ac5p/index.m3u8
+#EXTINF:-1 group-title="-",CNN Chile
+http://38.7.204.229:8010/play/a2gn/index.m3u8
+#EXTINF:-1 group-title="-",CNN Español
+http://38.7.204.229:8010/play/a2pk/index.m3u8
+#EXTINF:-1 group-title="-",Canal 13
+http://38.7.204.229:8010/play/a2nz/index.m3u8
+#EXTINF:-1 group-title="-",CHV
+http://38.7.204.229:8010/play/a2ke/index.m3u8
+#EXTINF:-1 group-title="-",Mega
+http://38.7.204.229:8010/play/a2qt/index.m3u8
+#EXTINF:-1 group-title="-",TVN
+http://38.7.204.229:8010/play/a2og/index.m3u8
+#EXTINF:-1 group-title="-",24 Horas
+http://38.7.204.229:8010/play/a2p8/index.m3u8
+#EXTINF:-1 group-title="-",RT en Español
+http://181.10.181.101:15001/play/a07d/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+http://38.172.128.4:8000/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="-",TyC Sports
+http://181.10.181.101:15001/play/a06x/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://38.7.204.229:8010/play/a2hj/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://38.7.204.229:8010/play/a2lj/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://38.7.204.229:8010/play/a2hd/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://38.7.204.229:8010/play/a2n6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://38.7.204.229:8010/play/a2n5/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 HD
+http://38.7.204.229:8010/play/a2p5/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 HD
+http://38.7.204.229:8010/play/a2l4/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7 HD
+http://38.7.204.229:8010/play/a2jk/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel  HD
+http://38.7.204.229:8010/play/a2oz/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://38.7.204.229:8010/play/a2kg/index.m3u8
+#EXTINF:-1 group-title="-",History Channel HD
+http://38.7.204.229:8010/play/a2nh/index.m3u8
+#EXTINF:-1 group-title="-",History 2
+http://38.7.204.229:8010/play/a2m0/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://38.7.204.229:8010/play/a2m0/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://181.10.181.101:15001/play/a076/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD
+http://38.172.128.4:8000/play/a0sg/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://181.10.181.101:15001/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet
+http://38.7.204.229:8010/play/a2la/index.m3u8
+#EXTINF:-1 group-title="-",TN
+http://181.10.181.101:15001/play/a097/index.m3u8
+#EXTINF:-1 group-title="-",C5N
+http://181.10.181.101:15001/play/a05v/index.m3u8
+#EXTINF:-1 group-title="-",CRONICA
+http://181.10.181.101:15001/play/a05w/index.m3u8
+#EXTINF:-1 group-title="-",26TV
+http://181.10.181.101:15001/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",A24
+http://181.10.181.101:15001/play/a05u/index.m3u8
+#EXTINF:-1 group-title="-",TV Publica HD
+http://181.10.181.101:15001/play/a095/index.m3u8
+#EXTINF:-1 group-title="-",AMERICA HD
+http://181.10.181.101:15001/play/a094/index.m3u8
+#EXTINF:-1 group-title="-",EL TRECE HD
+http://181.10.181.101:15001/play/a07b/index.m3u8
+#EXTINF:-1 group-title="-",EL NUEVE HD
+http://181.10.181.101:15001/play/a08k/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports HD Ar
+http://181.10.181.101:15001/play/a06z/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD Ar
+http://181.10.181.101:15001/play/a099/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD Ar
+http://181.10.181.101:15001/play/a086/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD Ar
+http://181.10.181.101:15001/play/a098/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD Ar
+http://181.10.181.101:15001/play/a09a/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD Ar
+http://181.10.181.101:15001/play/a084/index.m3u8
+#EXTINF:-1 group-title="-",Argentinisima
+http://181.10.181.101:15001/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="-",TELEFE HD
+http://181.209.96.155:2088/play/a067/index.m3u8
