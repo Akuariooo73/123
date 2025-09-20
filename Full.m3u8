@@ -6,7 +6,7 @@ http://181.209.95.28:8000/play/a06c/index.m3u8
 #EXTINF:-1,CNN Chile
 http://45.160.12.253:8000/play/054
 #EXTINF:-1,CNN en Español
-http://179.62.157.6:8001/play/a093/index.m3u8
+http://45.181.123.123:8000/play/a004/index.m3u8
 #EXTINF:-1,24 Horas
 http://45.160.12.253:8000/play/052
 #EXTINF:-1,Canal 9 Regional
@@ -215,6 +215,6 @@ http://190.211.172.154:8965/play/Vclassic/index.m3u8
 #EXTINF:-1,ZOOM BACK TV
 http://190.211.172.154:8965/play/ZOOMBACKTV/index.m3u8
 #EXTINF:-1,ANTENA 3
-http://181.209.95.28:8000/play/a01s/index.m3u8
+http://103.23.62.238:8000/play/a05q/index.m3u8
 #EXTINF:-1,ANTENA 3
 http://191.97.63.220:3001/play/a0hh/index.m3u88
