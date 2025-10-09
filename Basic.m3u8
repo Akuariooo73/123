@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",Canal 9 BioBio TV
+http://190.102.246.93:9005/play/a030
 #EXTINF:-1 group-title="Samm Tecnología",Canal 13
 http://190.211.172.154:8965/play/a01j/index.m3u8
 #EXTINF:-1 group-title="-",CHV
@@ -10,7 +12,7 @@ http://190.211.172.154:8965/play/a044/index.m3u8
 #EXTINF:-1 group-title="Grupo Ulloa",24 Horas
 http://201.222.45.70:4005/play/a0j9/index.m3u8
 #EXTINF:-1 group-title="-",CNN Chile
-http://186.148.196.161:8000/play/a09o/index.m3u8
+http://201.220.102.178:8000/play/a0e8/index.m3u8
 #EXTINF:-1 group-title="-",CNN Español
 http://190.3.108.42:8400/play/a054/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premium
@@ -30,11 +32,11 @@ http://190.211.172.154:8965/play/a031/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 6 HD
 http://201.222.45.70:4005/play/a00t/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7 HD
-http://186.148.196.161:8000/play/a07l/index.m3u8
+http://181.78.192.238:8000/play/a11i/index.m3u8
 #EXTINF:-1 group-title="-",DSports
 http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="-",DSports B
-http://200.121.48.5:8000/play/ac5p/index.m3u8
+http://138.99.179.229:8000/play/a0se/index.m3u8
 #EXTINF:-1 group-title="Telmex",TyC Sports
 http://190.3.108.42:8400/play/a02s/index.m3u8
 #EXTINF:-1 group-title="-",TELEFE HD
