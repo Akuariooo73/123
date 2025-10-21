@@ -22,7 +22,7 @@ http://190.211.172.154:8965/play/a02r/index.m3u8
 #EXTINF:-1,La Red
 http://45.160.12.253:8000/play/062
 #EXTINF:-1,TV+
-http://170.233.192.234:8112/play/016
+http://45.160.12.200:8008/play/063/index.m3u8
 #EXTINF:-1,NTV
 http://179.57.171.184:8000/play/a009
 #EXTINF:-1,TyC Sports
@@ -79,6 +79,8 @@ http://181.209.95.28:8000/play/a01q/index.m3u8
 http://181.209.95.28:8000/play/a01r/index.m3u8
 #EXTINF:-1,A24
 http://181.209.95.28:8000/play/a01o/index.m3u8
+#EXTINF:-1,La Nacion TV
+http://181.209.95.28:8000/play/a01s/index.m3u8
 #EXTINF:-1,TV Publica HD
 http://181.209.95.28:8000/play/a0a8/index.m3u8
 #EXTINF:-1,TELEFE HD
@@ -89,10 +91,8 @@ http://181.209.95.28:8000/play/a0a7/index.m3u8
 http://181.209.95.28:8000/play/a06d/index.m3u8
 #EXTINF:-1,el nueve HD
 http://181.209.95.28:8000/play/a0a9/index.m3u8
-#EXTINF:-1,La Nacion TV
-http://181.209.95.28:8000/play/a01s/index.m3u8
 #EXTINF:-1,RT en Español
-http://190.232.82.198:10000/play/a0e4/index.m3u8
+http://181.78.192.238:8000/play/a1vd/index.m3u8
 #EXTINF:-1,France 24
 http://138.99.179.229:8000/play/a0mk/index.m3u8
 #EXTINF:-1,DW Espaæol
@@ -100,9 +100,11 @@ http://179.51.136.23:8000/play/a0ah/index.m3u8
 #EXTINF:18,CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1,Directv Sport
-http://190.83.61.245:2233/play/a1ey/index.m3u8
+http://190.43.92.126:1983/play/a1un/index.m3u8
 #EXTINF:-1,DSports B
-http://38.252.215.33:8000/play/a082/index.m3u8
+http://190.43.92.126:1983/play/a1ue/index.m3u8
+#EXTINF:-1,DSports2
+http://190.43.92.126:1983/play/a1uf/index.m3u8
 #EXTINF:-1,HBO HD
 http://190.119.168.226:4000/play/a03w/index.m3u8
 #EXTINF:-1,HBO Family HD
