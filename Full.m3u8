@@ -1,259 +1,171 @@
 #EXTM3U
-#EXTINF:11,003 tv+
-http://38.250.125.162:9800/play/003/index.m3u8
-#EXTINF:0,004 TVN +
-http://38.250.125.162:9800/play/004/index.m3u8
-#EXTINF:0,005 MEGA +
-http://38.250.125.162:9800/play/005/index.m3u8
-#EXTINF:0,006 CHV +
-http://38.250.125.162:9800/play/006/index.m3u8
-#EXTINF:0,007 Canal 13 HD +
-http://38.250.125.162:9800/play/007/index.m3u8
-#EXTINF:0,008 24 HORAS +
-http://38.250.125.162:9800/play/008/index.m3u8
-#EXTINF:0,009 CNN Chile HD +
-http://38.250.125.162:9800/play/009/index.m3u8
-#EXTINF:0,010 france 24 +
-http://38.250.125.162:9800/play/010/index.m3u8
-#EXTINF:0,020 REC TV +
-http://38.250.125.162:9800/play/020/index.m3u8
-#EXTINF:0,121 TNT SPORTS +
-http://38.250.125.162:9800/play/121/index.m3u8
+#EXTINF:11,004 TVN HD
+http://45.181.120.65:9087/play/004/index.m3u8
+#EXTINF:0,005 MEGA HD
+http://45.181.120.65:9087/play/005/index.m3u8
+#EXTINF:0,006 CHV HD
+http://45.181.120.65:9087/play/006/index.m3u8
+#EXTINF:0,007 Canal 13 HD
+http://45.181.120.65:9087/play/007/index.m3u8
+#EXTINF:0,008 CNN CHiLE
+http://45.181.120.65:9087/play/008/index.m3u8
+#EXTINF:0,016 NTV
+http://45.160.12.200:8008/play/016/index.m3u8
+#EXTINF:0,026 El Gourmet HD
+http://45.181.120.65:9087/play/a0ad/index.m3u8
+#EXTINF:0,052 24 Horas HD
+http://45.160.12.200:8008/play/052/index.m3u8
+#EXTINF:0,054 CNN Chile
+http://45.160.12.200:8008/play/054/index.m3u8
+#EXTINF:0,057 TNT Sports Premiun HD
+http://45.181.120.65:9087/play/057/index.m3u8
+#EXTINF:0,062 La Red HD
+http://45.160.12.200:8008/play/062/index.m3u8
+#EXTINF:0,063 TV+ HD
+http://45.160.12.200:8008/play/063/index.m3u8
+#EXTINF:0,064 TVN HD
+http://45.160.12.200:8008/play/064/index.m3u8
+#EXTINF:0,065 MEGA HD
+http://45.160.12.200:8008/play/065/index.m3u8
+#EXTINF:0,066 CHV
+http://45.160.12.200:8008/play/066/index.m3u8
+#EXTINF:0,067 canal 13
+http://45.160.12.200:8008/play/067/index.m3u8
+#EXTINF:0,116 TNT SPORTS 2
+http://45.181.120.65:9087/play/116/index.m3u8
+#EXTINF:0,132 REC TV
+http://45.181.120.65:9087/play/a073/index.m3u8
+#EXTINF:0,136 TNT SPORTS
+http://45.181.120.65:9087/play/a07o/index.m3u8
+#EXTINF:0,177 El Gourmet HD
+http://45.160.12.200:8008/play/177/index.m3u8
+#EXTINF:0,200 24 HORAS. SD
+http://45.181.120.65:9087/play/200/index.m3u8
+#EXTINF:0,201 LA RED SD
+http://45.181.120.65:9087/play/03/index.m3u8
+#EXTINF:0,202 TVN SD
+http://45.181.120.65:9087/play/202/index.m3u8
+#EXTINF:0,203 MEGA SD
+http://45.181.120.65:9087/play/203/index.m3u8
+#EXTINF:0,205 CHV SD
+http://45.181.120.65:9087/play/205/index.m3u8
+#EXTINF:0,206 CANAL 13 SD
+http://45.181.120.65:9087/play/206/index.m3u8
+#EXTINF:0,211 MEGA2 HD F
+http://45.181.120.65:9087/play/a0g0/index.m3u8
+#EXTINF:0,212 TV+2 HD F
+http://45.181.120.65:9087/play/a0b3/index.m3u8
+#EXTINF:11,24 HORAS
+http://45.170.40.42:8000/play/a01a/index.m3u8
 #EXTINF:0,24 HORAS
-http://38.7.197.119:4000/play/a082/index.m3u8
-#EXTINF:0,24 HORAS
-http://38.250.126.145:832/play/a0mx
-#EXTINF:0,24 HORAS
-http://38.7.195.45:8000/play/a00z
-#EXTINF:0,24 Horas TVN
-http://38.250.126.145:832/play/a0bg
-#EXTINF:0,69.2 TNT SPORTS PREMIUM SD
-http://38.250.125.162:9800/play/a068/index.m3u8
-#EXTINF:0,Canal 13
-http://38.250.126.145:832/play/a0lz
+http://45.4.3.177:9999/play/a09q
+#EXTINF:0,BIO BIO TV
+http://45.4.3.177:9999/play/bio
 #EXTINF:0,CANAL 13
-http://38.7.197.119:4000/play/a07u/index.m3u8
-#EXTINF:0,Canal 13
-http://38.250.126.145:832/play/a0gd
+http://45.4.3.177:9999/play/a09i
 #EXTINF:0,CANAL 13
-http://38.250.126.145:832/play/a0mp
-#EXTINF:0,CANAL 13
-http://38.7.195.45:8000/play/a00v
+http://45.170.40.42:8000/play/a012/index.m3u8
 #EXTINF:0,Canal 13 HD
-http://38.250.126.145:832/play/a0o6
+http://45.166.72.87:8000/play/a0qk/index.m3u8
 #EXTINF:0,Canal 13 HD
-http://38.250.126.145:832/play/a04i
+http://45.181.122.46:8090/play/a00w
 #EXTINF:0,CANAL 13 HD
-http://38.7.197.119:4000/play/a03m/index.m3u8
-#EXTINF:0,CANAL 13 HD
-http://38.7.197.119:4000/play/a0e6/index.m3u8
-#EXTINF:0,Canal 13 HD
-http://38.250.127.17:9800/play/a067/index.m3u8
-#EXTINF:0,CANAL 13 HD F
-http://38.250.125.162:9800/play/a0fh/index.m3u8
-#EXTINF:0,Canal 13 SD
-http://38.250.127.17:9800/play/a09h/index.m3u8
+http://45.4.3.177:9999/play/13mundo
 #EXTINF:0,CANAL 13.2 HD F
-http://38.250.127.17:9800/play/a0aj/index.m3u8
+http://45.181.120.65:9087/play/a0hz/index.m3u8
 #EXTINF:0,Canal 24 Horas HD
-http://38.250.126.145:832/play/a0ll
+http://45.181.120.65:9087/play/a09u/index.m3u8
 #EXTINF:0,Canal 24 Horas HD
-http://38.250.126.145:832/play/a0od
-#EXTINF:0,Canal 24 Horas HD
-http://38.250.127.17:9800/play/a09o/index.m3u8
+http://45.166.72.87:8000/play/a0k8/index.m3u8
+#EXTINF:0,Canal 24 Horas HD+
+http://45.181.122.46:8090/play/a03x
+#EXTINF:0,CHILEVISION HD
+http://45.4.3.177:9999/play/chvmundo
+#EXTINF:0,CHV
+http://45.4.3.177:9999/play/a09h
+#EXTINF:0,CHV
+http://45.170.40.42:8000/play/a011/index.m3u8
+#EXTINF:0,CHV HD
+http://45.166.72.87:8000/play/a0ib/index.m3u8
+#EXTINF:0,CHV HD
+http://45.181.122.46:8090/play/a01o
+#EXTINF:0,CHV HD F
+http://45.181.120.65:9087/play/a0i6/index.m3u8
+#EXTINF:0,CHV2 HD F
+http://45.181.120.65:9087/play/a0fs/index.m3u8
 #EXTINF:0,CNN Chile
-http://38.250.126.145:832/play/a0ka
+http://45.170.40.42:8000/play/a01q/index.m3u8
 #EXTINF:0,CNN Chile
-http://38.250.126.145:832/play/a0nj
-#EXTINF:0,CNN Chile
-http://38.7.197.119:4000/play/a07a/index.m3u8
-#EXTINF:0,CNN Chile
-http://38.7.195.45:8000/play/a03l
-#EXTINF:0,CNN Chile
-http://38.7.195.44:8000/play/a02p
-#EXTINF:0,CNN Chile
-http://38.250.126.145:832/play/a0f6
+http://45.4.3.177:9999/play/cnnchile
 #EXTINF:0,CNN Espanol
-http://38.7.197.119:4000/play/a07p/index.m3u8
+http://45.4.3.177:9999/play/cnnespanol
 #EXTINF:0,CNN Espanol
-http://38.7.195.45:8000/play/a00q
-#EXTINF:0,CNN Espanol
-http://38.250.126.145:832/play/a0mk
-#EXTINF:0,CNN Espaæol
-http://38.250.126.145:832/play/a0m6
-#EXTINF:0,CNN Espaæol
-http://38.250.126.145:832/play/a0kx
-#EXTINF:0,CNN Espaæol
-http://38.250.127.17:9800/play/a0a7/index.m3u8
-#EXTINF:0,CNN Espaæol
-http://38.250.125.162:9800/play/a0f5/index.m3u8
-#EXTINF:0,El Gourmet
-http://38.250.126.145:832/play/a0fn
-#EXTINF:0,El Gourmet
-http://38.250.126.145:832/play/a0b9
+http://45.170.40.42:8000/play/a00x/index.m3u8
+#EXTINF:0,CNNChile
+http://45.181.122.46:8090/play/a03c
 #EXTINF:0,El Gourmet HD
-http://38.250.126.145:832/play/a06f
+http://45.166.72.87:8000/play/a0it/index.m3u8
 #EXTINF:0,El Gourmet HD
-http://38.250.127.17:9800/play/a09y/index.m3u8
-#EXTINF:0,El Gourmet HD
-http://38.7.195.44:8000/play/a023
+http://45.181.122.46:8090/play/a021
+#EXTINF:0,OUT-ryo - Gourmet
+http://45.166.72.87:8000/play/a0rb/index.m3u8
 #EXTINF:0,La Red
-http://38.7.197.119:4000/play/a07q/index.m3u8
+http://45.4.3.177:9999/play/a09e
 #EXTINF:0,La Red
-http://38.250.126.145:832/play/a0ml
-#EXTINF:0,La Red
-http://38.7.195.45:8000/play/a00r
-#EXTINF:0,LA RED
-http://38.7.195.44:8000/play/a0mu
+http://45.170.40.42:8000/play/a00y/index.m3u8
 #EXTINF:0,La Red HD
-http://38.250.126.145:832/play/a0lk
+http://45.166.72.87:8000/play/a0k7/index.m3u8
 #EXTINF:0,La Red HD
-http://38.250.126.145:832/play/a0ou
+http://45.181.122.46:8090/play/a03w
 #EXTINF:0,La Red HD
-http://38.250.127.17:9800/play/a09n/index.m3u8
-#EXTINF:11,La Red HD
-http://38.250.125.162:9800/play/002/index.m3u8
+http://45.181.122.46:8090/play/a00n
+#EXTINF:0,La Red HD
+http://45.181.120.65:9087/play/a0be/index.m3u8
 #EXTINF:0,Mega
-http://38.7.197.119:4000/play/a07s/index.m3u8
+http://45.170.40.42:8000/play/a010/index.m3u8
 #EXTINF:0,Mega
-http://38.250.126.145:832/play/a0mn
-#EXTINF:0,Mega
-http://38.7.195.45:8000/play/a00t
-#EXTINF:0,MEGA
-http://38.250.126.145:832/play/a0lx
-#EXTINF:0,MEGA 2 HD F
-http://38.250.127.17:9800/play/a0ai/index.m3u8
+http://45.4.3.177:9999/play/a09g
 #EXTINF:0,MEGA HD
-http://38.250.127.17:9800/play/a066/index.m3u8
+http://45.4.3.177:9999/play/a0fn
 #EXTINF:0,MEGA HD
-http://38.250.126.145:832/play/a0ay
+http://45.166.72.87:8000/play/a0ij/index.m3u8
 #EXTINF:0,MEGA HD
-http://38.250.126.145:832/play/a04h
-#EXTINF:0,MEGA PLUS
-http://38.7.197.119:4000/play/a03n/index.m3u8
+http://45.181.122.46:8090/play/a023
 #EXTINF:0,MEGA2
-http://38.7.197.119:4000/play/a0e7/index.m3u8
-#EXTINF:0,NTN 24 Horas
-http://38.250.127.17:9800/play/a07c/index.m3u8
-#EXTINF:0,NTN 24 Horas
-http://38.250.126.145:832/play/a0gq
-#EXTINF:0,NTN 24 Horas
-http://38.250.126.145:832/play/a0is
+http://45.4.3.177:9999/play/a0f5
 #EXTINF:0,NTV
-http://38.250.126.145:832/play/a0n3
+http://45.4.3.177:9999/play/a09w
 #EXTINF:0,NTV
-http://38.250.126.145:832/play/a0fi
-#EXTINF:0,NTV
-http://38.7.195.44:8000/play/a078
-#EXTINF:0,NTV
-http://38.7.195.45:8000/play/a012
-#EXTINF:0,NTV
-http://38.7.197.119:4000/play/a088/index.m3u8
-#EXTINF:0,NTV
-http://38.250.126.145:832/play/a0k9
-#EXTINF:0,NTV HD F
-http://38.250.127.17:9800/play/a0ak/index.m3u8
-#EXTINF:0,REC TV
-http://38.250.126.145:832/play/a07x
-#EXTINF:0,REC TV
-http://38.250.126.145:832/play/a0k1
-#EXTINF:0,REC TV
-http://38.7.197.119:4000/play/a0e4/index.m3u8
-#EXTINF:0,REC TV
-http://38.7.195.44:8000/play/a02j
-#EXTINF:0,RED Televisiðn
-http://38.250.126.145:832/play/a07t
-#EXTINF:0,T13
-http://38.7.195.44:8000/play/a02k
-#EXTINF:0,T13
-http://38.250.126.145:832/play/a07y
+http://45.170.40.42:8000/play/a01g/index.m3u8
+#EXTINF:0,NTV F
+http://45.181.120.65:9087/play/a0e0/index.m3u8
+#EXTINF:0,TC
+http://45.170.40.42:8000/play/a025/index.m3u8
 #EXTINF:0,TCM
-http://38.250.126.145:832/play/a0j2
+http://45.170.40.42:8000/play/a01s/index.m3u8
 #EXTINF:0,TCM
-http://38.7.195.44:8000/play/a080
+http://45.4.3.177:9999/play/a04v
 #EXTINF:0,TCM
-http://38.250.126.145:832/play/a0fg
-#EXTINF:0,TCM
-http://38.7.195.45:8000/play/a00g
-#EXTINF:0,TCM
-http://38.250.126.145:832/play/a0nl
-#EXTINF:0,TCM
-http://38.7.197.119:4000/play/a07c/index.m3u8
-#EXTINF:0,TNT SPORT HD
-http://38.7.195.45:8000/play/a025
+http://45.181.120.65:9087/play/a08d/index.m3u8
 #EXTINF:0,TNT SPORTS
-http://38.250.125.162:9800/play/a0du/index.m3u8
-#EXTINF:0,TNT SPORTS
-http://38.250.126.145:832/play/a08d
-#EXTINF:0,TNT SPORTS 2
-http://38.7.195.44:8000/play/a077
-#EXTINF:0,TNT SPORTS 2
-http://38.7.195.45:8000/play/a00w
-#EXTINF:0,TNT SPORTS 3
-http://38.7.195.45:8000/play/a01d
-#EXTINF:0,TNT SPORTS 3
-http://38.7.197.119:4000/play/a08k/index.m3u8
-#EXTINF:0,TNT SPORTS 3
-http://38.7.195.44:8000/play/a05m
+http://45.181.122.46:8090/play/a04g
+#EXTINF:0,TNT Sports
+http://45.4.3.177:9999/play/a0bi
 #EXTINF:0,TNT Sports Premium
-http://38.250.126.145:832/play/a0mq
-#EXTINF:0,TNT Sports Premiun
-http://38.250.126.145:832/play/a0jz
+http://45.170.40.42:8000/play/a013/index.m3u8
+#EXTINF:0,TNT Sports Premium
+http://45.4.3.177:9999/play/a09j
 #EXTINF:0,TNT Sports Premiun HD
-http://38.250.127.17:9800/play/a06g/index.m3u8
+http://45.166.72.87:8000/play/a0id/index.m3u8
 #EXTINF:0,TNT Sports Premiun HD
-http://38.250.126.145:832/play/a04r
+http://45.166.72.87:8000/play/a0ps/index.m3u8
 #EXTINF:0,TNT Sports Premiun HD
-http://38.250.126.145:832/play/a0an
-#EXTINF:0,TNT Sports Premiun HD
-http://38.7.195.44:8000/play/a0e7
-#EXTINF:0,TNT Sports Premiun SD
-http://38.250.126.145:832/play/a0hr
-#EXTINF:0,TNT Sports Premiun SD
-http://38.250.126.145:832/play/a0hq
-#EXTINF:0,Tooncast
-http://38.250.126.145:832/play/a0im
-#EXTINF:0,Tooncast
-http://38.7.195.44:8000/play/a02o
-#EXTINF:0,Tooncast
-http://38.250.126.145:832/play/a088
-#EXTINF:0,TV+
-http://38.7.195.44:8000/play/a02i
-#EXTINF:0,TV+
-http://38.250.126.145:832/play/a07u
-#EXTINF:0,TV+
-http://38.7.195.45:8000/play/a042
-#EXTINF:0,TV+ HD
-http://38.250.126.145:832/play/a0ot
-#EXTINF:0,TV+ HD
-http://38.250.126.145:832/play/a0lj
-#EXTINF:0,TV+ HD
-http://38.250.127.17:9800/play/a09m/index.m3u8
-#EXTINF:0,TV+2 HD F
-http://38.250.127.17:9800/play/a07e/index.m3u8
-#EXTINF:0,TV+2 HD F
-http://38.250.125.162:9800/play/a0fn/index.m3u8
+http://45.181.122.46:8090/play/a00i
 #EXTINF:0,TVN
-http://38.7.195.45:8000/play/a00s
+http://45.170.40.42:8000/play/a00z/index.m3u8
 #EXTINF:0,TVN
-http://38.7.197.119:4000/play/a07r/index.m3u8
-#EXTINF:0,TVN
-http://38.250.126.145:832/play/a0mm
-#EXTINF:0,TVN
-http://38.250.126.145:832/play/a0hj
+http://45.4.3.177:9999/play/a09f
 #EXTINF:0,TVN HD
-http://38.250.126.145:832/play/a0ak
+http://45.166.72.87:8000/play/a0p3/index.m3u8
 #EXTINF:0,TVN HD
-http://38.250.126.145:832/play/a04z
-#EXTINF:0,TVN HD
-http://38.250.127.17:9800/play/a09f/index.m3u8
-#EXTINF:0,TVN HD F
-http://38.250.125.162:9800/play/a0fr/index.m3u8
-#EXTINF:0,TyC
-http://38.7.195.45:8000/play/a038
-#EXTINF:0,TYC
-http://38.7.195.44:8000/play/a0mf
-#EXTINF:0,TyC Sports
-http://38.250.127.17:9800/play/a07k/index.m3u8
-#EXTINF:0,TyC Sports
-http://38.250.126.145:832/play/a0gy
+http://45.181.122.46:8090/play/a01n
