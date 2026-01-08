@@ -1,215 +1,187 @@
 #EXTM3U
-#EXTINF:0,01TNT SPORT PRUEBA 
-http://138.36.253.13:8008/play/01/index.m3u8
-#EXTINF:11,063 TV+ HD
-http://138.36.253.13:8008/play/a00m/index.m3u8
-#EXTINF:0,064 TVN HD
-http://138.36.253.13:8008/play/064/index.m3u8
-#EXTINF:0,065 MEGA HD
-http://138.36.253.13:8008/play/a00o/index.m3u8
-#EXTINF:0,066 CHV HD
-http://138.36.253.13:8008/play/066/index.m3u8
-#EXTINF:0,067 Canal 13 HD
-http://138.36.253.13:8008/play/a00q/index.m3u8
-#EXTINF:0,1. TV+ Respaldo
-http://45.238.20.210:8989/play/Respaldo_LP
-#EXTINF:11,13 HD SATELITE
-http://45.181.123.123:8000/play/a016/index.m3u8
-#EXTINF:0,24 H
-http://128.201.227.251:4000/play/a0dm
-#EXTINF:0,24 HORAS
-http://45.238.20.210:8989/play/24_HORAS_C_LP
-#EXTINF:0,38.5 La Red
-http://138.36.253.13:8008/play/a00l/index.m3u8
-#EXTINF:0,39.1 NTV
-http://138.36.253.13:8008/play/a007/index.m3u8
-#EXTINF:0,45do24horas
-http://45.184.87.142:8000/play/a03i
-#EXTINF:0,51.4 24 Horas HD
-http://138.36.253.13:8008/play/a00j/index.m3u8
-#EXTINF:0,51.5 CNN Chile
-http://138.36.253.13:8008/play/a00k/index.m3u8
-#EXTINF:0,BIOBIO
-http://45.184.87.142:8000/play/a006
-#EXTINF:0,Canal 13
-http://128.201.227.251:4000/play/a0el
-#EXTINF:0,CANAL 13
-http://45.238.20.210:8989/play/Canal_13_C_LP
-#EXTINF:0,Canal 13
-http://128.201.227.251:4000/play/a0ee
-#EXTINF:0,CANAL 13 ANALOGO 
-http://45.181.123.123:8000/play/a01y/index.m3u8
-#EXTINF:0,Canal 13 HD
-http://45.232.210.1:8029/play/a07a/index.m3u8
-#EXTINF:0,Canal 13 HD
-http://45.238.20.210:8989/play/Canal_13_HD2_M_LP
-#EXTINF:0,Canal 13 HD
-http://45.238.20.210:8989/play/Canal_13_HD_M_LP
-#EXTINF:0,Canal 24 Horas HD
-http://45.232.210.1:8029/play/a07d/index.m3u8
-#EXTINF:0,CANAL13 LEGAL
-http://45.181.123.123:8000/play/a002/index.m3u8
-#EXTINF:0,CANAL13HD
-http://45.184.87.142:8000/play/a00v
-#EXTINF:0,CHV
-http://128.201.227.251:4000/play/a0eh
-#EXTINF:0,CHV
-http://45.238.20.210:8989/play/CHV_C_LP
-#EXTINF:0,CHV ANALOGO
-http://45.181.123.123:8000/play/a01x/index.m3u8
-#EXTINF:0,CHV HD
-http://45.238.20.210:8989/play/CHV_HD_M_LP
-#EXTINF:0,CHV HD
-http://45.238.20.210:8989/play/CHV_HD_M2_LP
-#EXTINF:0,CHV HD
-http://45.232.210.1:8029/play/a08n/index.m3u8
-#EXTINF:0,CHV HD
-http://128.201.227.251:4000/play/a0em
-#EXTINF:0,CHV HD SATELITE
-http://45.181.123.123:8000/play/a015/index.m3u8
-#EXTINF:0,CHV LEGAL
-http://45.181.123.123:8000/play/a006/index.m3u8
-#EXTINF:0,CHVNOTICIAS LEGAL
-http://45.181.123.123:8000/play/a007/index.m3u8
-#EXTINF:0,CNN Chile
-http://128.201.227.251:4000/play/a0eq
-#EXTINF:0,CNN Chile
-http://45.238.20.210:8989/play/CNN_Chile_M_LP
-#EXTINF:0,CNN Espanol
-http://45.238.20.210:8989/play/CNN_Espanol_C_LP
-#EXTINF:0,CNN Espaæol
-http://45.238.20.210:8989/play/CNN_Espanol_M_LP
-#EXTINF:0,CNN Español
-http://128.201.227.251:4000/play/a03m
-#EXTINF:0,CNNE F
-http://128.201.227.251:4000/play/a0c4
-#EXTINF:0,El Gourmet HD
-http://45.238.20.210:8989/play/El_Gourmet_HD_M_LP
-#EXTINF:0,El Gourmet HD
-http://45.232.210.1:8029/play/a074/index.m3u8
-#EXTINF:0,El Gourmet HD
-http://128.201.227.251:4000/play/a0dv
-#EXTINF:0,ISDBT 13.2
-http://45.232.210.1:8029/play/a002/index.m3u8
-#EXTINF:0,ISDBT Canal 13 HD
-http://45.232.210.1:8029/play/a001/index.m3u8
-#EXTINF:0,ISDBT CHV HD
-http://45.232.210.1:8029/play/a00k/index.m3u8
-#EXTINF:0,ISDBT La Red 2
-http://45.232.210.1:8029/play/a00p/index.m3u8
-#EXTINF:0,ISDBT La Red HD
-http://45.232.210.1:8029/play/a00o/index.m3u8
-#EXTINF:0,ISDBT MEGA HD
-http://45.232.210.1:8029/play/a005/index.m3u8
-#EXTINF:0,ISDBT MEGA HD 2
-http://45.232.210.1:8029/play/a006/index.m3u8
-#EXTINF:0,ISDBT NTV
-http://45.232.210.1:8029/play/a00f/index.m3u8
-#EXTINF:0,ISDBT TV+ HD
-http://45.232.210.1:8029/play/a009/index.m3u8
-#EXTINF:0,ISDBT TVMAS2
-http://45.232.210.1:8029/play/a00a/index.m3u8
-#EXTINF:0,ISDBT TVN
-http://45.232.210.1:8029/play/a00e/index.m3u8
-#EXTINF:0,ISDBT UCHILETV
-http://45.232.210.1:8029/play/a00l/index.m3u8
-#EXTINF:0,ISDBT UCVTV
-http://45.232.210.1:8029/play/a00b/index.m3u8
-#EXTINF:0,La Red
-http://45.238.20.210:8989/play/La_Red_C_LP
-#EXTINF:0,La Red
-http://45.238.20.210:8989/play/La_Red_M_LP
-#EXTINF:0,La Red
-http://128.201.227.251:4000/play/a0fh
-#EXTINF:0,La Red HD
-http://45.238.20.210:8989/play/La_Red_HD_M_LP
-#EXTINF:0,La Red HD
-http://45.232.210.1:8029/play/laredhd/index.m3u8
-#EXTINF:0,La Red SD SATELITAL
-http://45.181.123.123:8000/play/a01n/index.m3u8
-#EXTINF:0,MEGA
-http://128.201.227.251:4000/play/a0ef
-#EXTINF:0,Mega
-http://45.238.20.210:8989/play/Mega_C_LP
-#EXTINF:0,Mega ANALOGO
-http://45.181.123.123:8000/play/a01w/index.m3u8
-#EXTINF:0,MEGA HD
-http://45.232.210.1:8029/play/a08g/index.m3u8
-#EXTINF:0,MEGA HD
-http://45.238.20.210:8989/play/MEGA_HD2_M_LP
-#EXTINF:0,MEGA HD
-http://128.201.227.251:4000/play/a0en
-#EXTINF:0,MEGA HD
-http://45.238.20.210:8989/play/MEGA_HD_M_LP
-#EXTINF:0,MEGA HD SATELITE
-http://45.181.123.123:8000/play/a017/index.m3u8
-#EXTINF:0,MEGA LEGAL
-http://45.181.123.123:8000/play/a008/index.m3u8
-#EXTINF:0,MEGA2 LEGAL
-http://45.181.123.123:8000/play/a009/index.m3u8
-#EXTINF:0,MEGAFICCION LEGAL
-http://45.181.123.123:8000/play/a00c/index.m3u8
-#EXTINF:0,MEGAHD
-http://45.184.87.142:8000/play/a00r
-#EXTINF:0,MEGANOTICIAS LEGAL
-http://45.181.123.123:8000/play/a00a/index.m3u8
-#EXTINF:0,MEGATIEMPO LEGAL
-http://45.181.123.123:8000/play/a00b/index.m3u8
-#EXTINF:0,NTV
-http://45.238.20.210:8989/play/NTV_C_LP
-#EXTINF:0,NTV
-http://128.201.227.251:4000/play/a0ep
-#EXTINF:0,NTV Chile
-http://45.232.210.1:8029/play/a057/index.m3u8
-#EXTINF:0,REC TV
-http://45.238.20.210:8989/play/REC_TV_M_LP
-#EXTINF:0,REC TV SATELITAL
-http://45.181.123.123:8000/play/a01b/index.m3u8
-#EXTINF:0,RECTV LEGAL
-http://45.181.123.123:8000/play/a005/index.m3u8
-#EXTINF:0,TCM
-http://128.201.227.251:4000/play/a03j
-#EXTINF:0,TCM
-http://45.238.20.210:8989/play/TCM_M_LP
-#EXTINF:0,TNT Sports
-http://45.238.20.210:8989/play/TNT_Sports_C_LP
-#EXTINF:0,TNT Sports
-http://128.201.227.251:4000/play/a0ea
-#EXTINF:0,TNT Sports
-http://128.201.227.251:4000/play/a0fd
-#EXTINF:0,TNT SPORTS
-http://45.238.20.210:8989/play/TNT_SPORTS_3_M_LP
-#EXTINF:0,TNT SPORTS HD
-http://45.232.210.1:8029/play/cdfhd/index.m3u8
-#EXTINF:0,TNT Sports Premiun HD
-http://45.238.20.210:8989/play/TNT_Sports_Premiun_HD_M_LP
-#EXTINF:0,TNT Sports Premiun HD SATELITAL
-http://45.181.123.123:8000/play/a01r/index.m3u8
-#EXTINF:0,TNT Sports SD SATELITAL
-http://45.181.123.123:8000/play/a01q/index.m3u8
-#EXTINF:0,TV+ HD
-http://45.238.20.210:8989/play/TVMAS_HD_LP
-#EXTINF:0,TV+ HD
-http://45.232.210.1:8029/play/a058/index.m3u8
-#EXTINF:0,TVMAS
-http://45.184.87.142:8000/play/a00k
-#EXTINF:0,TVN
-http://128.201.227.251:4000/play/a0eg
-#EXTINF:0,TVN
-http://45.238.20.210:8989/play/TVN_C_LP
-#EXTINF:0,TVN ANALOGO
-http://45.181.123.123:8000/play/a01v/index.m3u8
-#EXTINF:0,TVN HD
-http://128.201.227.251:4000/play/a0eo
-#EXTINF:0,TVN HD
-http://45.232.210.1:8029/play/a06r/index.m3u8
-#EXTINF:0,TVN HD
-http://45.238.20.210:8989/play/TVN_HD_M2_LP
-#EXTINF:0,TVN HD
-http://45.238.20.210:8989/play/TVN_HD_M_LP
-#EXTINF:0,TVN HD SATELITAL
-http://45.181.123.123:8000/play/a01s/index.m3u8
-#EXTINF:0,UCV1
-http://45.184.87.142:8000/play/a00l
-#EXTINF:0,UCV2
-http://45.184.87.142:8000/play/a00m
+http://45.5.151.62:8000/play/a08z/index.m3u8
+http://45.5.151.62:8000/play/a05q/index.m3u8
+http://45.5.149.220:8000/play/a003/index.m3u8
+http://181.209.96.155:2088/play/a01h/index.m3u8
+http://181.80.15.132:8400/play/a01p/index.m3u8
+http://138.121.114.91:8000/play/a05v/index.m3u8
+http://181.13.112.203:8100/play/a01p/index.m3u8
+http://181.13.252.102:8000/play/a01p/index.m3u8
+http://181.209.37.74:8001/play/a05v/index.m3u8
+http://138.121.114.86:8000/play/a05v/index.m3u8
+http://181.80.15.131:8400/play/a01p/index.m3u8
+http://181.209.72.149:8000/play/a05v/index.m3u8
+http://181.191.140.2:8000/play/a1ri/index.m3u8
+http://138.121.114.86:8000/play/a05v/index.m3u8
+http://190.3.108.42:8400/play/a01p/index.m3u8
+http://181.80.15.130:8400/play/a01p/index.m3u8
+http://45.170.40.11:8000/play/a03h/index.m3u8
+http://138.121.113.213:8000/play/a05v/index.m3u8
+http://181.80.15.133:8400/play/a01p/index.m3u8
+http://181.191.141.241:8000/play/a1ri/index.m3u8
+http://45.5.151.62:8000/play/a023/index.m3u8
+http://45.5.151.62:8000/play/a08x/index.m3u8
+http://190.3.108.42:8400/play/a01o/index.m3u8
+http://181.13.252.102:8000/play/a01o/index.m3u8
+http://181.80.15.132:8400/play/a01o/index.m3u8
+http://181.80.15.130:8400/play/a01o/index.m3u8
+http://181.209.72.149:8000/play/a05u/index.m3u8
+http://181.80.15.131:8400/play/a01o/index.m3u8
+http://45.5.149.220:8000/play/a001/index.m3u8
+http://181.209.37.74:8001/play/a05u/index.m3u8
+http://181.191.140.2:8000/play/a1rh/index.m3u8
+http://138.121.114.86:8000/play/a05u/index.m3u8
+http://45.170.40.11:8000/play/a03g/index.m3u8
+http://181.13.112.203:8100/play/a01o/index.m3u8
+http://138.121.113.213:8000/play/a05u/index.m3u8
+http://138.121.114.86:8000/play/a05u/index.m3u8
+http://181.80.15.133:8400/play/a01o/index.m3u8
+http://181.191.141.241:8000/play/a1rh/index.m3u8
+http://138.121.114.91:8000/play/a05u/index.m3u8
+http://181.209.96.155:2088/play/a01g/index.m3u8
+http://45.5.151.62:8000/play/a09c/index.m3u8
+http://45.5.151.62:8000/play/a06f/index.m3u8
+http://45.170.40.11:8000/play/a008/index.m3u8
+http://181.80.15.133:8400/play/a01r/index.m3u8
+http://181.80.15.130:8400/play/a01r/index.m3u8
+http://190.3.108.42:8400/play/a01r/index.m3u8
+http://181.80.15.131:8400/play/a01r/index.m3u8
+http://181.80.15.132:8400/play/a01r/index.m3u8
+http://181.209.96.155:2088/play/a01j/index.m3u8
+http://181.13.252.102:8000/play/a01r/index.m3u8
+http://45.170.40.11:8000/play/a03j/index.m3u8
+http://138.121.114.86:8000/play/a05x/index.m3u8
+http://181.209.72.149:8000/play/a05x/index.m3u8
+http://181.191.141.241:8000/play/a1rk/index.m3u8
+http://138.121.114.86:8000/play/a05x/index.m3u8
+http://138.121.113.213:8000/play/a05x/index.m3u8
+http://181.209.37.74:8001/play/a05x/index.m3u8
+http://181.13.112.203:8100/play/a01r/index.m3u8
+http://138.121.114.91:8000/play/a05x/index.m3u8
+http://181.191.140.2:8000/play/a1rk/index.m3u8
+http://45.5.151.62:8000/play/a090/index.m3u8
+http://45.5.149.220:8000/play/a004/index.m3u8
+http://45.5.151.62:8000/play/a028/index.m3u8
+http://45.5.151.62:8000/play/a092/index.m3u8
+http://190.3.108.42:8400/play/a01q/index.m3u8
+http://181.13.112.203:8100/play/a01q/index.m3u8
+http://181.80.15.132:8400/play/a01q/index.m3u8
+http://181.80.15.131:8400/play/a01q/index.m3u8
+http://181.13.252.102:8000/play/a01q/index.m3u8
+http://181.80.15.133:8400/play/a01q/index.m3u8
+http://181.80.15.130:8400/play/a01q/index.m3u8
+http://45.5.151.62:8000/play/a024/index.m3u8
+http://45.5.149.220:8000/play/a005/index.m3u8
+http://138.121.114.86:8000/play/a05w/index.m3u8
+http://181.209.96.155:2088/play/a01i/index.m3u8
+http://181.209.72.149:8000/play/a05w/index.m3u8
+http://45.170.40.11:8000/play/a03i/index.m3u8
+http://138.121.113.213:8000/play/a05w/index.m3u8
+http://138.121.114.91:8000/play/a05w/index.m3u8
+http://181.209.37.74:8001/play/a05w/index.m3u8
+http://181.191.141.241:8000/play/a1rj/index.m3u8
+http://181.191.140.2:8000/play/a1rj/index.m3u8
+http://138.121.114.86:8000/play/a05w/index.m3u8
+http://45.5.151.62:8000/play/a08p/index.m3u8
+http://45.5.151.62:8000/play/a09d/index.m3u8
+http://45.5.149.220:8000/play/a039/index.m3u8
+http://45.5.151.62:8000/play/a09h/index.m3u8
+http://45.5.151.62:8000/play/a05g/index.m3u8
+http://45.5.151.62:8000/play/a08y/index.m3u8
+http://45.5.149.220:8000/play/a008/index.m3u8
+http://45.5.151.62:8000/play/a021/index.m3u8
+http://138.121.114.86:8000/play/a0d0/index.m3u8
+http://138.121.114.86:8000/play/a0d0/index.m3u8
+http://138.121.114.91:8000/play/a094/index.m3u8
+http://190.3.108.42:8400/play/a055/index.m3u8
+http://138.121.113.213:8000/play/a094/index.m3u8
+http://181.13.112.203:8100/play/a055/index.m3u8
+http://181.80.15.131:8400/play/a055/index.m3u8
+http://45.5.151.62:8000/play/a071/index.m3u8
+http://181.13.252.102:8000/play/a055/index.m3u8
+http://45.170.40.11:8000/play/a00i/index.m3u8
+http://181.191.140.2:8000/play/a0hs/index.m3u8
+http://181.80.15.132:8400/play/a055/index.m3u8
+http://181.80.15.130:8400/play/a055/index.m3u8
+http://181.191.140.2:8000/play/a1qw/index.m3u8
+http://45.172.111.227:8000/play/a03f
+http://181.191.141.241:8000/play/a0hs/index.m3u8
+http://181.209.37.74:8001/play/a094/index.m3u8
+http://181.191.141.241:8000/play/a1qw/index.m3u8
+http://181.209.96.155:2088/play/a00w/index.m3u8
+http://181.209.72.149:8000/play/a094/index.m3u8
+http://45.5.151.62:8000/play/a09i/index.m3u8
+http://181.80.15.133:8400/play/a055/index.m3u8
+http://45.5.151.62:8000/play/a094/index.m3u8
+http://45.5.149.220:8000/play/a009/index.m3u8
+http://45.5.151.62:8000/play/a061/index.m3u8
+http://181.191.141.241:8000/play/a1un/index.m3u8
+http://181.191.140.2:8000/play/a1un/index.m3u8
+http://181.191.140.2:8000/play/a1t2/index.m3u8
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+http://45.172.111.227:8000/play/a03b
+http://181.209.72.149:8000/play/a07b/index.m3u8
+http://190.3.108.42:8400/play/a0e3/index.m3u8
+http://181.80.15.130:8400/play/a0e3/index.m3u8
+http://181.13.112.203:8100/play/a0bg/index.m3u8
+http://181.80.15.132:8400/play/a0e3/index.m3u8
+http://181.80.15.131:8400/play/a0e3/index.m3u8
+http://138.121.114.91:8000/play/a07b/index.m3u8
+http://138.121.114.86:8000/play/a07b/index.m3u8
+http://181.209.96.155:2088/play/a02z/index.m3u8
+http://45.170.40.11:8000/play/b02f/index.m3u8
+http://181.80.15.133:8400/play/a0e3/index.m3u8
+http://181.209.37.74:8001/play/a07b/index.m3u8
+http://181.191.141.241:8000/play/a1t2/index.m3u8
+http://138.121.114.86:8000/play/a07b/index.m3u8
+http://138.121.113.213:8000/play/a07b/index.m3u8
+http://45.170.40.11:8000/play/a008/index.m3u8
+http://181.80.15.133:8400/play/a0d8/index.m3u8
+http://181.80.15.132:8400/play/a0d8/index.m3u8
+http://181.80.15.130:8400/play/a0d8/index.m3u8
+http://190.3.108.42:8400/play/a0d8/index.m3u8
+http://181.80.15.131:8400/play/a0d8/index.m3u8
+http://45.5.151.62:8000/play/a093/index.m3u8
+http://190.3.108.42:8400/play/a04h/index.m3u8
+http://181.209.96.155:2088/play/a007/index.m3u8
+http://181.13.252.102:8000/play/a04h/index.m3u8
+http://181.80.15.132:8400/play/a04h/index.m3u8
+http://138.121.114.91:8000/play/a08k/index.m3u8
+http://138.121.113.213:8000/play/a08k/index.m3u8
+http://181.80.15.131:8400/play/a04h/index.m3u8
+http://45.172.111.227:8000/play/a03h
+http://138.121.114.86:8000/play/a08k/index.m3u8
+http://181.80.15.133:8400/play/a04h/index.m3u8
+http://181.209.72.149:8000/play/a08k/index.m3u8
+http://181.13.112.203:8100/play/a04h/index.m3u8
+http://181.191.141.241:8000/play/a1q7/index.m3u8
+http://138.121.114.86:8000/play/a08k/index.m3u8
+http://45.170.40.11:8000/play/a00k/index.m3u8
+http://181.209.37.74:8001/play/a08k/index.m3u8
+http://181.80.15.130:8400/play/a04h/index.m3u8
+http://181.191.140.2:8000/play/a1q7/index.m3u8
+http://45.5.151.62:8000/play/a07w/index.m3u8
+http://181.80.15.133:8400/play/a0dv/index.m3u8
+http://181.209.96.155:2088/play/a03i/index.m3u8
+http://138.121.114.86:8000/play/a07u/index.m3u8
+http://190.3.108.42:8400/play/a0dv/index.m3u8
+http://181.80.15.132:8400/play/a0dv/index.m3u8
+http://181.209.37.74:8001/play/a07u/index.m3u8
+http://181.191.141.241:8000/play/a1ik/index.m3u8
+http://138.121.113.213:8000/play/a07u/index.m3u8
+http://181.191.141.241:8000/play/a0ie/index.m3u8
+http://138.121.114.91:8000/play/a07u/index.m3u8
+http://181.80.15.131:8400/play/a0dv/index.m3u8
+http://181.191.140.2:8000/play/a0ie/index.m3u8
+http://181.191.140.2:8000/play/a1ik/index.m3u8
+http://138.121.114.86:8000/play/a07u/index.m3u8
+http://181.80.15.130:8400/play/a0dv/index.m3u8
+http://181.13.252.102:8000/play/a06w/index.m3u8
+http://45.5.149.220:8000/play/a024/index.m3u8
+http://45.170.40.11:8000/play/b02r/index.m3u8
+http://181.13.112.203:8100/play/a06w/index.m3u8
+http://181.209.72.149:8000/play/a07u/index.m3u8
+http://181.191.141.241:8000/play/a0lh/index.m3u8
+http://45.5.151.62:8000/play/a07c/index.m3u8
+http://181.191.140.2:8000/play/a0lh/index.m3u8
+http://45.5.151.62:8000/play/a09g/index.m3u8
